@@ -45,8 +45,7 @@ Registre suas anotações no quadro abaixo.
 | Contribuição das ferramentas | O uso de ferramentas que aumentem a interação e a resposta visual do conteúdo ao interagir com o usuário pode tornar a experiência mais intuitiva, lúdica e simples para diversos alunos. Com esse objetivo em pauta, este trabalho reúne diferentes ferramentas que podem ser aplicadas ao estudo, à utilização e à aplicação de conceitos de **Linguagens Formais e Autômatos (LFA)**. | # 1. Introdução |
 | Diferença entre ferramentas | Porém, identificou-se que, apesar da existência e do catálogo de ferramentas que auxiliam na manipulação de elementos presentes nas disciplinas, como autômatos finitos e autômatos de pilha, de forma lúdica [Rodger et al. 1997], poucas ferramentas têm sido utilizadas nesses cursos [Brito Junior e Aguiar 2019]. | # 3. Ferramentas para o aprendizado de Linguagens Formais e Autômatos |
 | Limitação ou lacuna | Seja por meio de **softwares instaláveis, plataformas web ou aplicativos**. | # 3. Ferramentas para o aprendizado de Linguagens Formais e Autômatos |
-| Afirmação para debate | - **Tipo de linguagem utilizada**
-- **Softwares que ainda estão em funcionamento** |  |
+| Afirmação para debate | - **Tipo de linguagem utilizada** - **Softwares que ainda estão em funcionamento** |  |
 
 ## Etapa 2 - Compreensão do artigo em grupo (20 minutos)
 
