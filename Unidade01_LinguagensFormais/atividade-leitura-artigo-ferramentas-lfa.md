@@ -41,11 +41,12 @@ Registre suas anotações no quadro abaixo.
 
 | Elemento observado | Anotação do estudante | Página/seção |
 |---|---|---|
-| Problema educacional |  |  |
-| Contribuição das ferramentas |  |  |
-| Diferença entre ferramentas |  |  |
-| Limitação ou lacuna |  |  |
-| Afirmação para debate |  |  |
+| Problema educacional | Pode se provar uma atividade desafiadora e abstrata quando abordada por iniciantes. É comum que os materiais e as atividades didáticas de **LFA (Linguagens Formais e Autômatos)** adotem um enfoque essencialmente algébrico, o que exige dos alunos não apenas uma boa formação matemática, mas também, e principalmente, uma grande capacidade de raciocínio lógico e abstrato. | # 1. Introdução |
+| Contribuição das ferramentas | O uso de ferramentas que aumentem a interação e a resposta visual do conteúdo ao interagir com o usuário pode tornar a experiência mais intuitiva, lúdica e simples para diversos alunos. Com esse objetivo em pauta, este trabalho reúne diferentes ferramentas que podem ser aplicadas ao estudo, à utilização e à aplicação de conceitos de **Linguagens Formais e Autômatos (LFA)**. | # 1. Introdução |
+| Diferença entre ferramentas | Porém, identificou-se que, apesar da existência e do catálogo de ferramentas que auxiliam na manipulação de elementos presentes nas disciplinas, como autômatos finitos e autômatos de pilha, de forma lúdica [Rodger et al. 1997], poucas ferramentas têm sido utilizadas nesses cursos [Brito Junior e Aguiar 2019]. | # 3. Ferramentas para o aprendizado de Linguagens Formais e Autômatos |
+| Limitação ou lacuna | Seja por meio de **softwares instaláveis, plataformas web ou aplicativos**. | # 3. Ferramentas para o aprendizado de Linguagens Formais e Autômatos |
+| Afirmação para debate | - **Tipo de linguagem utilizada**
+- **Softwares que ainda estão em funcionamento** |  |
 
 ## Etapa 2 - Compreensão do artigo em grupo (20 minutos)
 
