@@ -212,15 +212,8 @@ No notebook `Sistema_Especialista_Ciencia_Dados_LFA.ipynb`, executamos **5 cená
 
 ---
 
-## 🚀 8. Como Executar no Google Colab
 
-1. Abra o [Google Colab](https://colab.research.google.com/).
-2. Clique em **Arquivo $\rightarrow$ Fazer upload de notebook** e selecione `Sistema_Especialista_Ciencia_Dados_LFA.ipynb`.
-3. Execute as células sequencialmente de cima para baixo (`Ambiente de execução -> Executar tudo` ou `Ctrl + F9`). O notebook já cria automaticamente o arquivo `dataset_qualidade_dados.csv` no ambiente e exibe todos os gráficos e diagnósticos.
-
----
-
-## 📚 9. Referências Bibliográficas
+## 📚 8. Referências Bibliográficas
 
 * **VALÉRIA, Kadidja.** *Sistemas Especialistas: Conhecimento, regras e inferência*. Slides de aula — Inteligência Artificial e LFA. Brasília: Centro Universitário UDF, 2026.
 * **VALÉRIA, Kadidja.** *Aprendizado Supervisionado em Sistemas Especialistas: Da lógica baseada em regras às previsões orientadas a dados*. Notebook `Aprendizado_Maquina_Introducao.ipynb`. Brasília: Centro Universitário UDF, 2026.
