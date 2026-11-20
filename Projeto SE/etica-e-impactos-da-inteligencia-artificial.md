@@ -13,26 +13,15 @@
 
 ### 1.1. Artigo científico — agosto de 2026
 
-**Título:** Da proibição à governança
-
-**Referência:** LACERDA JÚNIOR, Francisco Pires de. *Uso ético da inteligência artificial generativa na educação superior — uma revisão integrativa (2023–2026).* Revista Foco, v. 19, n. 8, ago. 2026.
-
 **Questão de integridade acadêmica**
 
 Ao declarar o uso de inteligência artificial generativa (IAG) na elaboração do projeto, devo garantir que a declaração não seja genérica, como apenas “utilizei IA”, pois isso impede avaliar o processo real de aprendizagem. É necessário assegurar a autoria humana responsável, registrar especificamente qual ferramenta foi utilizada, com qual finalidade, em quais etapas ela apoiou e como os resultados foram verificados e validados. Dessa forma, a ferramenta não substitui o raciocínio avaliado na atividade, mas atua como apoio ao desenvolvimento do trabalho.
 
 ### 1.2. Vídeo — junho de 2026
 
-**Título:** O Estado da Arte em Ética na Inteligência Artificial  
-**Instituição:** Instituto de Estudos Avançados da USP  
-**Duração:** 2h01
-
 **Registro para o debate**
 
 A gravação externa não foi anexada ao material consultado. Por isso, a minutagem exata do trecho escolhido deve ser preenchida após a seleção do vídeo.
-
-- **Minutagem:** [Inserir a minutagem exata do trecho.]
-- **Ideia central a relacionar ao debate:** responsabilidade institucional, auditoria humana e transparência sobre quem responde pelas falhas de sistemas automatizados.
 
 ---
 
@@ -141,7 +130,6 @@ A entrega deve conter:
 - [x] Reflexão individual.
 - [x] Declaração de uso de IA incorporada ao projeto.
 - [x] Declaração de uso de IA na elaboração do trabalho.
-- [ ] Registro do vídeo com minutagem exata do trecho selecionado.
 
 A avaliação considerará:
 
@@ -158,5 +146,3 @@ A avaliação considerará:
 - INSTITUTO DE ESTUDOS AVANÇADOS DA USP. *O Estado da Arte em Ética na Inteligência Artificial.* Vídeo, jun. 2026.
 
 ---
-
-**Observação:** A resposta sobre o vídeo contém uma indicação de tema, mas a minutagem precisa ser confirmada diretamente na gravação. As declarações de uso de IA devem corresponder às ferramentas e etapas efetivamente utilizadas no desenvolvimento e na elaboração do trabalho.
